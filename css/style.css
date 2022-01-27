@@ -14,6 +14,7 @@
 body {
   background-color: var(--preto);
   font-family: 'Times New Roman', Times, serif;
+  color: #FFF;
 }
 
  header.container {
@@ -37,4 +38,19 @@ header nav a {
 
 header nav a:hover {
   color: var(--nav-transition-branco);
+}
+
+main .filme-principal {
+  font-size: 16px;
+  background: url(/img/capa-spider.jpg);
+  background-size: cover;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start; /* Itens começando na esquerda */
+}
+
+.filme-principal .descricao {
+  margin-bottom: 90px;
 }
