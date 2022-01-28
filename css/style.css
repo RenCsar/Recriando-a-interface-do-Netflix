@@ -103,3 +103,11 @@ main .filme-principal {
 .botao i{
   margin-right: 6px;
 }
+
+/*Imagens carousel*/
+
+.box-filmes {
+  height: 100%;
+  width: 100%;
+  display: block;
+}
