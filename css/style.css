@@ -53,7 +53,7 @@ main .filme-principal {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: flex-start; /* Itens começando na esquerda */
+  align-items: flex-start;
 }
 
 .filme-principal:hover {
