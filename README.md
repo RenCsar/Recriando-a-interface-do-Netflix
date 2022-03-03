@@ -2,7 +2,7 @@
 
 ## Visualização do projeto
 <p align="center">
-  <img width="800" height="1000" src="img/REcriandocortado.gif">
+  <img width="800" height="400" src="img/REcriandocortado.gif">
 </p>
 
 ## Descrição
