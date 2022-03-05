@@ -15,6 +15,8 @@
 
 <h1 align="center">  
   <p align="center">
+  <img width="800" height="400" src="img/Netflix-Cima.png">
+  <img width="800" height="400" src="img/Netflix-baixo.png">
   <img width="800" height="400" src="img/REcriandocortado.gif">
 </p>
 
