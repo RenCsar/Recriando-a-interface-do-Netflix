@@ -40,8 +40,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Autor
 
-<img alt="" title="" src="" height="100" width="100" />
-
 Made with 💜 by Renan Cesar 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Renan_Cesar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-cesar/)](https://www.linkedin.com/in/renan-cesar/)
