@@ -25,7 +25,7 @@
 <a id="Descrição"></a>
 ### Descrição
 
-Esse projeto faz parte do bootcamp Web Developer realizado pela parceria entre [Take Blip](https://www.take.net/), [Órbi Conecta](https://orbi.co/) e [DIO](https://www.dio.me/). Através dele, e com a orientação do professor [Felipe Silva Aguiar](https://www.linkedin.com/in/felipe-aguiar-047/), pude recriar a interface de uma plataforma de streaming de vídeos. <b font-weigth="700">O objetivo do projeto é educacional</b>. Sua finalidade é demonstrar o quê podemos fazer utilizando tecnologias simples como HTML5, CSS3 e JavaScript.
+Esse projeto faz parte do [bootcamp Web Developer](https://www.dio.me/certificate/E98EA5EB) realizado pela parceria entre [Take Blip](https://www.take.net/), [Órbi Conecta](https://orbi.co/) e [DIO](https://www.dio.me/). Através dele, e com a orientação do professor [Felipe Silva Aguiar](https://www.linkedin.com/in/felipe-aguiar-047/), pude recriar a interface de uma plataforma de streaming de vídeos. <b font-weigth="700">O objetivo do projeto é educacional</b>. Sua finalidade é demonstrar o quê podemos fazer utilizando tecnologias simples como HTML5, CSS3 e JavaScript.
 
 <a id="Tecnologias"></a>
 ### Tecnologias utilizadas
